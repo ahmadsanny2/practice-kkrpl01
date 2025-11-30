@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - Data Barang</title>
+</head>
+
+<body>
+    <form action="">
+        <input type="text" name="" id="" placeholder="Username">
+        <input type="password" name="" id="Password">
+        <button type="submit"></button>
+    </form>
+</body>
+
+</html>
